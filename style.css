@@ -1,0 +1,118 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+body
+{
+    background-image: url("bg1.png");
+}
+nav
+{
+    
+    color:#cb6921;
+    padding: 15px;
+}
+li,ul,h1
+{
+    display: inline-block;
+    border-color: #111216;
+    border-width: 1px;
+}
+ul
+{
+    margin-left: 60%;
+}
+li
+{
+    color:#cb6921 ;
+    background-color: #111216;
+}
+li:hover
+{
+    background-color:#cb6921;
+    color:#111216;
+    cursor: pointer;
+}
+h1
+{
+    margin-left: 5px;
+    color: #cb6921;
+    background-color: #111216;
+}
+h1:hover
+{
+    background-color: #cb6921;
+    color: #111216;
+}
+input
+{
+    width:60%;
+    padding: 15px;
+}
+.SearchBar
+{
+    padding: 15px;
+    text-align: center;
+    color: #cb6921;
+}
+input
+{
+    background-color: #111216 ;
+    color: #cb6921;
+}
+.box
+{
+    border-color: black;
+    border-width: 0;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    color:#cb6921 ;
+    background-color: #111216;
+}
+.Products
+{
+    text-align: center;
+}
+.box:hover
+{
+    background-color: #cb6921;
+    color: #111216;
+}
+.about
+{
+    text-align: center;
+    margin-top: 20px;
+    color: #cb6921;
+    background-color: #111216;
+    display: inline-block;
+    width: 891px;
+}
+.about:hover
+{
+    background-color: #cb6921;
+    color: #111216;
+}
+.cont
+{
+    color: #cb6921;
+    background-color: #111216;
+    display: inline-block;
+}
+.cont:hover
+{
+    background-color: #cb6921;
+    color: #111216;
+    
+}
+.para
+{
+    color: #cb6921;
+    background-color: #111216;
+}
+.para:hover
+{
+    background-color: #cb6921;
+    color: #111216;
+}
